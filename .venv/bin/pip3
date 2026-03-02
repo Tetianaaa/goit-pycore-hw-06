@@ -1,4 +1,4 @@
-#!/workspaces/goit-pycore-hw-06/.venv/bin/python
+#!/Users/tetianakravchuk/Documents/Neoversity/Projects/python_programming/goit-pycore-hw-06/.venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys

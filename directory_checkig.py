@@ -27,5 +27,5 @@ def viz_directory_structure(path, indent=''):
         print(f'{Fore.RED}(!) Error: {e}')
 
 # checking:
-path = '/Users/tetianakravchuk/Documents/Neoversity/Projects/python_programming'
+path = '/Users/tetianakravchuk/Documents/Neoversity/Projects/python_programming/goit-pycore-hw-06'
 print(viz_directory_structure(path))
